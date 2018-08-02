@@ -1,5 +1,11 @@
 package com.lingnanedu.usermanagesys.common.exception;
 
+/**
+ * 自定义邮箱异常
+ * @author Administrator
+ *
+ */
+@SuppressWarnings("serial")
 public class EmailException extends ServiceException {
 	
 	/**

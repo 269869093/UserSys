@@ -8,7 +8,11 @@ import java.sql.ResultSet;
 
 import com.lingnanedu.usermanagesys.common.exception.UtilException;
 
-
+/**
+ * DB操作工具包
+ * @author Administrator
+ *
+ */
 public class DBUtils {
 	
 	/**

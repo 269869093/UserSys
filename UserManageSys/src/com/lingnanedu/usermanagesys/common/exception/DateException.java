@@ -1,5 +1,11 @@
 package com.lingnanedu.usermanagesys.common.exception;
 
+/**
+ * 自定义异常类
+ * @author Administrator
+ *
+ */
+@SuppressWarnings("serial")
 public class DateException extends ServiceException {
 	/**
 	 * 原始构造方法

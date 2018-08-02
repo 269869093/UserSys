@@ -1,9 +1,12 @@
 package com.lingnanedu.usermanagesys.common.util;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 
+/**
+ * 测试类
+ * @author Administrator
+ *
+ */
 public class CheckUtilsTest {
 
 	@Test

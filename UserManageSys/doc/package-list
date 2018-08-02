@@ -1,0 +1,10 @@
+com.lingnanedu.usermanagesys.common.constant
+com.lingnanedu.usermanagesys.common.dao
+com.lingnanedu.usermanagesys.common.exception
+com.lingnanedu.usermanagesys.common.util
+com.lingnanedu.usermanagesys.usermgr.business.dao
+com.lingnanedu.usermanagesys.usermgr.business.service
+com.lingnanedu.usermanagesys.usermgr.controller
+com.lingnanedu.usermanagesys.usermgr.domain
+com.lingnanedu.usermanagesys.usermgr.start
+com.lingnanedu.usermanagesys.usermgr.view

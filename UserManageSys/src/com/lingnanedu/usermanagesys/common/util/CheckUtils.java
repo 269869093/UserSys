@@ -1,5 +1,10 @@
 package com.lingnanedu.usermanagesys.common.util;
 
+/**
+ * 检测格式工具包
+ * @author Administrator
+ *
+ */
 public class CheckUtils {
 	
 	/**

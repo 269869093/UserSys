@@ -3,9 +3,13 @@ package com.lingnanedu.usermanagesys.common.util;
 import java.util.Date;
 import java.text.SimpleDateFormat;
 
-import com.lingnanedu.usermanagesys.common.exception.DaoException;
 import com.lingnanedu.usermanagesys.common.exception.DateException;
 
+/**
+ * 字符串转换工具
+ * @author Administrator
+ *
+ */
 public class TypeUtils {
 	
 	/**

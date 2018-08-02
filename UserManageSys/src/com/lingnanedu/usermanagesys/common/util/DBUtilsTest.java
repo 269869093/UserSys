@@ -1,14 +1,16 @@
 package com.lingnanedu.usermanagesys.common.util;
 
-import static org.junit.Assert.*;
-
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
 import org.junit.Test;
-
+/**
+ * 测试类
+ * @author Administrator
+ *
+ */
 public class DBUtilsTest {
 
 	@Test

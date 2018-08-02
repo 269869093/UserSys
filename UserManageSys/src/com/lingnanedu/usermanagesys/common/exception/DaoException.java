@@ -1,5 +1,11 @@
 package com.lingnanedu.usermanagesys.common.exception;
 
+/**
+ * 自定义dao异常
+ * @author Administrator
+ *
+ */
+@SuppressWarnings("serial")
 public class DaoException extends RuntimeException {
 	
 	/**

@@ -1,5 +1,11 @@
 package com.lingnanedu.usermanagesys.common.exception;
 
+/**
+ * 自定义工具异常
+ * @author Administrator
+ *
+ */
+@SuppressWarnings("serial")
 public class UtilException extends RuntimeException{
 	/**
 	 * 原始构造方法
